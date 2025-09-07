@@ -63,7 +63,7 @@ Spotify-Clone/
 ---
 
 ## 📸 Screenshots 
-![Home Page](assets/screenshots/home.png)
+![Home Page](assets/screenshots/Home.png)
 --- 
 
 
