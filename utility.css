@@ -1,0 +1,67 @@
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.align-center{
+    align-items: center;
+}
+.border{
+    border: 2px solid rgb(255, 0, 0);
+    margin: 3px;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.bg-grey{
+    background-color: #1f1f1f;
+    color: white;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+.invert{
+    filter: invert(1);
+}
+.m1{
+    margin: 5px;
+}
+.p1{
+    padding: 10px;
+}
+.btn{
+    border: none;
+    cursor: pointer;
+}
+/* For Chrome, Edge, and Safari */
+::-webkit-scrollbar {
+    width: 12px;               /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #1e1e1e;       /* Track color (dark gray) */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #555;    /* Scrollbar color (medium gray) */
+    border-radius: 6px;        /* Rounded edges */
+    border: 3px solid #1e1e1e; /* Padding around scrollbar */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #888;    /* Color on hover */
+}
+
+/* For Firefox */
+* {
+    scrollbar-width: thin;       /* Makes scrollbar thinner */
+    scrollbar-color: #555 #1e1e1e; /* thumb color, track color */
+}
+
+/* Remove blue highlight on mobile when tapping */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
