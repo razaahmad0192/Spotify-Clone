@@ -26,21 +26,22 @@ A simple **Spotify Clone** built with **HTML, CSS, and JavaScript** where you ca
 
 ## 📂 Project Structure
 Spotify-Clone/
-│── index.html # Main landing page
-│── style.css,utility.css # Styling
-│── script.js # Music player logic
-│── /songs/ # Song directories
-│ ├── Playlist1/
-│ │ ├── song1.mp3
-│ │ ├── song2.mp3
-│ │ ├── info.json
-│ │ └── cover.jpg
-│ ├── Playlist2/
-│ │ ├── song1.mp3
-│ │ ├── song2.mp3
-│ │ ├── info.json
-│ │ └── cover.jpg
 
+│── index.html           # Main landing page  
+│── style.css            # Main styling  
+│── utility.css          # Utility classes for styling  
+│── script.js            # Music player logic  
+│── /songs/              # Song directories  
+│   ├── Playlist1/  
+│   │   ├── song1.mp3  
+│   │   ├── song2.mp3  
+│   │   ├── info.json  
+│   │   └── cover.jpg  
+│   ├── Playlist2/  
+│   │   ├── song1.mp3  
+│   │   ├── song2.mp3  
+│   │   ├── info.json  
+│   │   └── cover.jpg  
 
 
 ---
