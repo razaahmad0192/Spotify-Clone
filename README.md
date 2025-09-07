@@ -64,7 +64,8 @@ Spotify-Clone/
 
 ## 📸 Screenshots 
 ![Home Page](assets/screenshots/home.png)
----
+--- 
+
 
 ## 🎯 Future Improvements
 - ✅ Dynamic directory reading (without hardcoding).  
